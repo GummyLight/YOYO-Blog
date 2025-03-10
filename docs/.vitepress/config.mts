@@ -65,13 +65,13 @@ const blogTheme = getThemeConfig({
         avatar: '/瑞璟.jpg',
         url: 'https://space.bilibili.com/438272047'
       },
-      {
-        nickname: 'Vitepress',
-        des: 'Vite & Vue Powered Static Site Generator',
-        avatar:
-          'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTI2NzY1Ng==674995267656',
-        url: 'https://vitepress.dev/'
-      }
+      // {
+      //   nickname: 'Vitepress',
+      //   des: 'Vite & Vue Powered Static Site Generator',
+      //   avatar:
+      //     'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTI2NzY1Ng==674995267656',
+      //   url: 'https://vitepress.dev/'
+      // }
     ],
     // 开启顺序随机
     random: true,
@@ -151,6 +151,7 @@ export default defineConfig({
     //     'https://github.com/ATQQ/sugar-blog/tree/master/packages/blogpress/:path',
     //   text: '去 GitHub 上编辑内容'
     // },
+    //文件夹里面一定要写index.md
     nav: [
       { text: '首页', link: '/' },
       { text: '论文笔记',link:'/paper/'},
@@ -161,13 +162,13 @@ export default defineConfig({
           { text: '操作系统', link: '/computerBase/OS/' },
           { text: '计算机网络', link: '/computerBase/CN/' },
           { text: '数字图像处理',link:'/computerBase/DIP/'},
-          { text: '计算机组成原理',link:'/computerBase/CO'},
-          { text: '离散数学',link:'/computerBase/DM'}]
+          { text: '计算机组成原理',link:'/computerBase/CO/'},
+          { text: '离散数学',link:'/computerBase/DM/'}]
       },
       { text: '生活杂记',
         items:[
           {text: '影评书摘', link: '/life/BookMovie/'},
-          {text: '复盘日记', link: '/life/Dairy'}]
+          {text: '复盘日记', link: '/life/Dairy/'}]
       },
       { text: '关于作者', link: '/aboutme' },
     ],

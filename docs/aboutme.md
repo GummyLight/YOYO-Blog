@@ -2,6 +2,7 @@
 sidebar: True
 title: 关于我
 date: 2025-3-10
+description: 一枚SEUer CS专业学生的自我介绍！
 cover: 
 tags:
  - 其它

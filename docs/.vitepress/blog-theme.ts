@@ -102,4 +102,4 @@ const blogTheme = getThemeConfig({
   },
 })
 
-export { blogTheme }
+export { blogTheme, getThemeConfig }
