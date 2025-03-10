@@ -1,0 +1,33 @@
+.VPHome {
+ 
+  // 定义遮罩样式
+  background: radial-gradient(ellipse,
+      rgba(var(--bg-gradient-home), 0.8) 10%,
+      rgba(var(--bg-gradient-home), 0.6) 100%);
+
+  // 自定义首页背景图
+  &::before {
+    //在这里修改博客主页背景图
+    background-image: url(./assets/bg.jpg);
+    background-size: cover;
+    animation: bg-animation 10s infinite alternate;
+  }
+}
+
+//可以自行修改置顶icon的样式
+.blog-item .pin.pin::before {
+  // 修改颜色
+  background-image: linear-gradient(rgb(2, 255, 255), rgb(37, 175, 199));
+  //隐藏置顶icon
+  // display: none;
+}
+
+// 定义背景图动画
+@keyframes bg-animation {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
