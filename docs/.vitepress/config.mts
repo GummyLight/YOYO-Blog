@@ -62,7 +62,7 @@ const blogTheme = getThemeConfig({
       {
         nickname: '鸡叫带师',
         des: '明月别枝惊鹊，清风半夜鸣蝉',
-        avatar: '/瑞璟.jpg',
+        avatar: 'https://gummylight.github.io/YOYO-Blog/瑞璟.jpg',
         url: 'https://space.bilibili.com/438272047'
       },
       // {
@@ -102,7 +102,7 @@ const blogTheme = getThemeConfig({
       { type: 'text', content: '👇 QQ 👇---👇 微信 👇' },
       {
         type: 'image',
-        src: '/popover.png'
+        src: "https://gummylight.github.io/YOYO-Blog/popover.png"
       },
       {
         type: 'text',
