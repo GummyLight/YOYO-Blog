@@ -3,12 +3,104 @@
 // // 导入主题的配置
 // import {getThemeConfig} from './blog-theme'
 import { defineConfig, getThemeConfig } from '@sugarat/theme/node'
-
-
+//导入支持Markdown数学公式的包
+import markdownItKatex from 'markdown-it-katex'
+//导入支持Markdown数学公式的包
+import mathjax3 from 'markdown-it-mathjax3';
 // 如果使用 GitHub/Gitee Pages 等公共平台部署
 // 通常需要修改 base 路径，通常为“/仓库名/”
 // 如果项目名已经为 name.github.io 域名，则不需要修改！
 const base = '/YOYO-Blog/'
+//customElements 用于配置markdown-it-katex插件支持的数学公式
+const customElements = [
+	'mjx-container',
+    'mjx-assistive-mml',
+	'math',
+	'maction',
+	'maligngroup',
+	'malignmark',
+	'menclose',
+	'merror',
+	'mfenced',
+	'mfrac',
+	'mi',
+	'mlongdiv',
+	'mmultiscripts',
+	'mn',
+	'mo',
+	'mover',
+	'mpadded',
+	'mphantom',
+	'mroot',
+	'mrow',
+	'ms',
+	'mscarries',
+	'mscarry',
+	'mscarries',
+	'msgroup',
+	'mstack',
+	'mlongdiv',
+	'msline',
+	'mstack',
+	'mspace',
+	'msqrt',
+	'msrow',
+	'mstack',
+	'mstack',
+	'mstyle',
+	'msub',
+	'msup',
+	'msubsup',
+	'mtable',
+	'mtd',
+	'mtext',
+	'mtr',
+	'munder',
+	'munderover',
+	'semantics',
+	'math',
+	'mi',
+	'mn',
+	'mo',
+	'ms',
+	'mspace',
+	'mtext',
+	'menclose',
+	'merror',
+	'mfenced',
+	'mfrac',
+	'mpadded',
+	'mphantom',
+	'mroot',
+	'mrow',
+	'msqrt',
+	'mstyle',
+	'mmultiscripts',
+	'mover',
+	'mprescripts',
+	'msub',
+	'msubsup',
+	'msup',
+	'munder',
+	'munderover',
+	'none',
+	'maligngroup',
+	'malignmark',
+	'mtable',
+	'mtd',
+	'mtr',
+	'mlongdiv',
+	'mscarries',
+	'mscarry',
+	'msgroup',
+	'msline',
+	'msrow',
+	'mstack',
+	'maction',
+	'semantics',
+	'annotation',
+	'annotation-xml',
+];
 
 const blogTheme = getThemeConfig({ 
   //设定默认作者
@@ -183,5 +275,23 @@ export default defineConfig({
       // }
     ]
   },
-
+  markdown: {
+    config: (md) => {
+      md.use(mathjax3),{
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+        },
+        options: {
+          scale: 0.4, // 调整缩放比例
+        },
+      }
+    }
+  },
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => customElements.includes(tag),
+      },
+    },
+  },
 })

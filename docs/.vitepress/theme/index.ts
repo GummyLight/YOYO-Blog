@@ -7,4 +7,3 @@ import './style.scss'
 // import './user-theme.css'
 
 export default BlogTheme
-
