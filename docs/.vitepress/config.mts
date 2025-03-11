@@ -7,6 +7,8 @@ import { defineConfig, getThemeConfig } from '@sugarat/theme/node'
 import markdownItKatex from 'markdown-it-katex'
 //导入支持Markdown数学公式的包
 import mathjax3 from 'markdown-it-mathjax3';
+import highlightjs from 'markdown-it-highlightjs';
+import markdownItMark from 'markdown-it-mark';
 // 如果使用 GitHub/Gitee Pages 等公共平台部署
 // 通常需要修改 base 路径，通常为“/仓库名/”
 // 如果项目名已经为 name.github.io 域名，则不需要修改！
@@ -277,6 +279,7 @@ export default defineConfig({
   },
   markdown: {
     config: (md) => {
+      md.use(markdownItMark); // 启用mark标记
       md.use(mathjax3),{
         tex: {
           inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -284,7 +287,8 @@ export default defineConfig({
         options: {
           scale: 0.4, // 调整缩放比例
         },
-      }
+      };
+      md.use(highlightjs); // 启用代码高亮
     }
   },
   vue: {
