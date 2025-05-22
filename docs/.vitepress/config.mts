@@ -248,6 +248,7 @@ export default defineConfig({
     //文件夹里面一定要写index.md
     nav: [
       { text: '首页', link: '/' },
+      { text: '踩坑笔记', link: '/solution/' },
       { text: '论文笔记',link:'/paper/'},
       { text: '算法题解',link:'/code/'},
       { text: '计算机基础',
