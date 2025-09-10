@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "cmenu-plugin",
+  "obsidian-paste-image-rename",
+  "templater-obsidian",
+  "auto-note-mover"
 ]
