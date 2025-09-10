@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aefaad4f5d6c38b5",
+        "id": "fa2159dbedf5d172",
         "type": "tabs",
         "children": [
           {
-            "id": "f82585ade5bc0721",
+            "id": "773071d57a282951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
+                "file": "docs/post/YearIndex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "蓝桥532.纪念品分组"
+              "title": "YearIndex"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
+                "file": "docs/post/YearIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "蓝桥532.纪念品分组 的反向链接列表"
+              "title": "YearIndex 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
+                "file": "docs/post/YearIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "蓝桥532.纪念品分组 的出链列表"
+              "title": "YearIndex 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
+                "file": "docs/post/YearIndex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "蓝桥532.纪念品分组 的大纲"
+              "title": "YearIndex 的大纲"
             }
           },
           {
@@ -181,8 +181,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f82585ade5bc0721",
+  "active": "773071d57a282951",
   "lastOpenFiles": [
+    "Templates/博文.md",
+    "docs/post/YearIndex.md",
+    "docs/post/CategoryIndex.md",
+    "docs/post/2025/蓝桥545.谈判.md",
+    "docs/post/2025/蓝桥532.纪念品分组.md",
+    "posts/2025.md",
+    "posts",
     "docs/aboutme.md",
     "docs/public/icon/xiaohongshu.svg",
     "docs/public/popover.png",
@@ -190,9 +197,6 @@
     "docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
     "docs/post/2025/蓝桥3904.DNA序列修正.md",
     "docs/post/2025/蓝桥3260.最大数组和.md",
-    "docs/post/2025/蓝桥545.谈判.md",
-    "docs/post/2025/蓝桥532.纪念品分组.md",
-    "Templates/博文.md",
     "docs/post/2025/Untitled.md",
     "未命名.md",
     "docs/post/2025/蓝桥3898.泡澡.md",
@@ -213,8 +217,6 @@
     "Daily/2025-09-10_周三.md",
     "Daily",
     "docs/post/2025/测试测试.md",
-    "docs/post/2025/未命名.md",
-    "docs/index.md",
     "Templates",
     "docs/public/瑞璟.jpg",
     "docs/post/2025",

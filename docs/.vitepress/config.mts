@@ -248,29 +248,10 @@ export default defineConfig({
     //文件夹里面一定要写index.md
     nav: [
   { text: '首页', link: '/' },
-  { text: '年份归档', link: '/archive/' },      // ① 指向 /archive/ 根
-  { text: '文章分类', link: '/category/' },     // ② 指向 /category/ 根
+  { text: '年份归档', link: '/post/YearIndex.md' },      // ① 指向 /post/YearIndex.md
+  { text: '文章分类', link: '/post/CategoryIndex.md' },     // ② 指向 /post/CategoryIndex.md
   { text: '关于作者', link: '/aboutme' },
 ],
-  sidebar: {
-      '/archive/': [
-        {
-          text: '年份归档',
-          items: 'auto',
-          collapsible: true,
-          collapsed: false
-        }
-      ],
-      '/category/': [
-        {
-          text: '文章分类',
-          items: 'auto',
-          collapsible: true,
-          collapsed: false
-        }
-      ],
-      '/posts/': 'auto'
-    },
     socialLinks: [
       {
         icon: 'github',
