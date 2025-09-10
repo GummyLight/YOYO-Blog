@@ -10,6 +10,6 @@ description: ""
 ---
 # 按分类浏览
 
-- [A 技术向](/posts/?category=技术) 
-- [B 生活向](/posts/?category=生活)
-- [C 学习向](/posts/?category=学习)
+## A 技术向
+## B 生活向
+## C 学习向

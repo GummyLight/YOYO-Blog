@@ -6,7 +6,7 @@ tags:
   - 解决方法
 title: "vue创建项目 Error: EPERM xxx 的解决办法"
 category:
-  - 技术向
+  - 技术
 status:
   - published
 ---
