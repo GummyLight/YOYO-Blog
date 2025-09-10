@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f63f6cf0bb010036",
+        "id": "ff78f2621d216a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "59137d2df3cd707b",
+            "id": "b1a4e96b53d6a0b5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "docs/code/蓝桥532.纪念品分组.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "蓝桥532.纪念品分组"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/code/蓝桥532.纪念品分组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "蓝桥532.纪念品分组 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/code/蓝桥532.纪念品分组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "蓝桥532.纪念品分组 的出链列表"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/code/蓝桥532.纪念品分组.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "蓝桥532.纪念品分组 的大纲"
             }
           },
           {
@@ -177,6 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59137d2df3cd707b",
-  "lastOpenFiles": []
+  "active": "b1a4e96b53d6a0b5",
+  "lastOpenFiles": [
+    "docs/code/蓝桥3260.最大数组和.md",
+    "未命名.md",
+    "docs/code/蓝桥545.谈判.md",
+    "docs/code/蓝桥532.纪念品分组.md"
+  ]
 }
