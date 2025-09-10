@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:create-Templates/博文.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ]
+}

@@ -248,23 +248,8 @@ export default defineConfig({
     //文件夹里面一定要写index.md
     nav: [
       { text: '首页', link: '/' },
-      { text: '踩坑笔记', link: '/solution/' },
-      { text: '论文笔记',link:'/paper/'},
-      { text: '算法题解',link:'/code/'},
-      { text: '计算机基础',
-        items: [
-          { text: '算法与数据结构', link: '/computerBase/ADS/' },
-          { text: '操作系统', link: '/computerBase/OS/' },
-          { text: '计算机网络', link: '/computerBase/CN/' },
-          { text: '数字图像处理',link:'/computerBase/DIP/'},
-          { text: '计算机组成原理',link:'/computerBase/CO/'},
-          { text: '离散数学',link:'/computerBase/DM/'}]
-      },
-      { text: '生活杂记',
-        items:[
-          {text: '影评书摘', link: '/life/BookMovie/'},
-          {text: '复盘日记', link: '/life/Dairy/'}]
-      },
+      { text: '归档', link: '/solution/' },
+      { text: '标签',link:'/paper/'},
       { text: '关于作者', link: '/aboutme' },
     ],
     socialLinks: [

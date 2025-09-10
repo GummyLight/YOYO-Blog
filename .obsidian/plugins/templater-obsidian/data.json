@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "docs/post/2025",
+  "templates_folder": "Templates",
   "templates_pairs": [
     [
       "",
@@ -8,7 +8,7 @@
     ]
   ],
   "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -29,7 +29,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "Templates/博文.md"
   ],
   "startup_templates": [
     ""
