@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/code/蓝桥532.纪念品分组.md",
+                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/code/蓝桥532.纪念品分组.md",
+                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/code/蓝桥532.纪念品分组.md",
+                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/code/蓝桥532.纪念品分组.md",
+                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,9 +182,24 @@
   },
   "active": "b1a4e96b53d6a0b5",
   "lastOpenFiles": [
-    "docs/code/蓝桥3260.最大数组和.md",
+    "docs/index.md",
+    "docs/aboutme.md",
+    "docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
+    "docs/post/2025/蓝桥532.纪念品分组.md",
+    "docs/code/index.md",
+    "docs/computerBase/DM/index.md",
+    "docs/computerBase/OS/index.md",
+    "docs/computerBase/CN/index.md",
+    "docs/computerBase/CO/index.md",
+    "docs/computerBase/ADS/index.md",
+    "docs/public/瑞璟.jpg",
+    "docs/public/logo.png",
+    "docs/public/popover.png",
+    "docs/public/icon/xiaohongshu.svg",
+    "docs/post/2025",
+    "docs/post",
+    "docs/post/2025/蓝桥3260.最大数组和.md",
     "未命名.md",
-    "docs/code/蓝桥545.谈判.md",
-    "docs/code/蓝桥532.纪念品分组.md"
+    "docs/post/2025/蓝桥545.谈判.md"
   ]
 }
