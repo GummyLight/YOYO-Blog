@@ -103,7 +103,7 @@ updated:      <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 ## 🤝 贡献 & 反馈
 
-欢迎提 Issue / PR，或直接在 Obsidian 里 `@GummyLight` 交流！
+欢迎提 Issue / PR，或直接在YOYO-BLOG 里添加作者联系方式交流！
 
 ---
 
