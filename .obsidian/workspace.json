@@ -11,10 +11,14 @@
             "id": "59137d2df3cd707b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#蓝桥杯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,6 +177,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff0243b6e45f1ad4",
+  "active": "59137d2df3cd707b",
   "lastOpenFiles": []
 }
