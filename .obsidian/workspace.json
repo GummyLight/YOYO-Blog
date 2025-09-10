@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa2159dbedf5d172",
+        "id": "2db07a701328941c",
         "type": "tabs",
         "children": [
           {
-            "id": "773071d57a282951",
+            "id": "0e7d0dcef6fc73e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,16 +181,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "773071d57a282951",
+  "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
-    "Templates/博文.md",
+    "posts/2024.md",
     "docs/post/YearIndex.md",
     "docs/post/CategoryIndex.md",
+    "docs/aboutme.md",
+    "Templates/博文.md",
     "docs/post/2025/蓝桥545.谈判.md",
     "docs/post/2025/蓝桥532.纪念品分组.md",
     "posts/2025.md",
     "posts",
-    "docs/aboutme.md",
     "docs/public/icon/xiaohongshu.svg",
     "docs/public/popover.png",
     "docs/public/logo.png",
@@ -216,7 +217,6 @@
     "post",
     "Daily/2025-09-10_周三.md",
     "Daily",
-    "docs/post/2025/测试测试.md",
     "Templates",
     "docs/public/瑞璟.jpg",
     "docs/post/2025",
