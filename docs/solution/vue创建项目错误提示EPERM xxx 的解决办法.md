@@ -4,11 +4,11 @@ date: 2025-5-22
 tags:
   - 经验
   - 解决方法
-title: vue创建项目 Error: EPERM xxx 的解决办法
+title: "vue创建项目 Error: EPERM xxx 的解决办法"
 ---
 # vue创建项目错误提示EPERM xxx 的解决办法
 
-1. 找到nodejs文件在电脑上的位置，右键点击属性，进入安全导航，找到users选项，进行编辑，将文件的权限设置为完全控制即可。
+1. 找到node.js文件在电脑上的位置，右键点击属性，进入安全导航，找到users选项，进行编辑，将文件的权限设置为完全控制即可。
 2. 修改nodejs文件的安全权限后，再次创建Vue项目即可成功。
 
 ## 拓展——关于 `EPERM` 的介绍：
