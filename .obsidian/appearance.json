@@ -1,1 +1,5 @@
-{}
+{
+  "accentColor": "#425c0a",
+  "theme": "moonstone",
+  "baseFontSizeAction": true
+}
