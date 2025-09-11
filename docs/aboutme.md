@@ -1,11 +1,12 @@
 ---
-sidebar: True
+sidebar: true
 title: 关于我
 date: 2025-3-10
 description: 一枚SEUer CS专业学生的自我介绍！
-cover: 
+cover:
 tags:
- - 其它
+  - 其它
+hidden: true
 ---
 
 # 关于我

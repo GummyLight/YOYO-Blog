@@ -5,6 +5,7 @@
     "tags": "tags",
     "category": "multitext",
     "date": "date",
-    "status": "multitext"
+    "status": "multitext",
+    "hidden": "checkbox"
   }
 }
