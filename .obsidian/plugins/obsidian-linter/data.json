@@ -31,11 +31,11 @@
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
-      "enabled": false,
+      "enabled": true,
       "text-to-insert": "aliases: \ntags: "
     },
     "move-tags-to-yaml": {
-      "enabled": false,
+      "enabled": true,
       "how-to-handle-existing-tags": "Nothing",
       "tags-to-ignore": ""
     },
@@ -70,9 +70,9 @@
       "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
-      "enabled": false,
+      "enabled": true,
       "title-key": "title",
-      "mode": "first-h1-or-filename-if-h1-missing"
+      "mode": "filename"
     },
     "yaml-title-alias": {
       "enabled": false,

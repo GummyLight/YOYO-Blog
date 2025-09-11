@@ -1,10 +1,9 @@
 ---
+aliases: []
 sidebar: true
 date: 2025-5-22
-tags:
-  - 经验
-  - 解决方法
-title: "vue创建项目 Error: EPERM xxx 的解决办法"
+tags: [解决方法, 经验]
+title: vue创建项目错误提示EPERM xxx 的解决办法
 category:
   - 技术
 status:
