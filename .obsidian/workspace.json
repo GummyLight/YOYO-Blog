@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
+                "file": "docs/post/CategoryIndex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "蓝桥532.纪念品分组"
+              "title": "CategoryIndex"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
+                "file": "docs/post/CategoryIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "蓝桥532.纪念品分组 的出链列表"
+              "title": "CategoryIndex 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/2025/蓝桥532.纪念品分组.md",
+                "file": "docs/post/CategoryIndex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "蓝桥532.纪念品分组 的大纲"
+              "title": "CategoryIndex 的大纲"
             }
           },
           {
@@ -183,6 +183,8 @@
   },
   "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
+    "output.txt",
+    "docs/post/2025/蓝桥532.纪念品分组.md",
     "docs/post/2025/蓝桥545.谈判.md",
     "docs/post/2025/蓝桥3260.最大数组和.md",
     "docs/post/2025/蓝桥3898.泡澡.md",
@@ -208,7 +210,6 @@
     "Templates/日记.md",
     "image.png",
     "docs/public/assets",
-    "docs/post/2025/蓝桥532.纪念品分组.md",
     "README.md",
     "未命名.md",
     "posts/2025 1.md",
