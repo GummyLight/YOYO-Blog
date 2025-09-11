@@ -11,6 +11,8 @@ status:
 description: ""
 ---
 ---
+# Unity+Pico 3D项目转VR记录
+
 1. 环境配置 [1. 创建开发者帐号、组织和应用 | PICO 开发者平台](https://developer-cn.picoxr.com/document/unity/create-a-developer-account-organization-and-app/) 参见入门教程，完成1-4
 2. XR origin 的坐标为Player的坐标复制而来，两个的Main Camera采用同样的坐标，这样可以把头显视角移动到3D的用户视角位置。
 3. 以上两步可以实现 全景显示和手柄识别，接下来实现交互
