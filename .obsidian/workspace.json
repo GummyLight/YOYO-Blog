@@ -11,14 +11,10 @@
             "id": "0e7d0dcef6fc73e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/post/YearIndex.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "YearIndex"
+              "title": "新标签页"
             }
           }
         ]
@@ -183,6 +179,10 @@
   },
   "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
+    "posts/2025 1.md",
+    "posts/2025.md",
+    "posts/2024.md",
+    "docs/post/YearIndex.md",
     "docs/post/CategoryIndex.md",
     "docs/post/2025/蓝桥532.纪念品分组.md",
     "docs/post/2025/蓝桥545.谈判.md",
@@ -191,11 +191,7 @@
     "docs/post/2025/蓝桥3904.DNA序列修正.md",
     "docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
     "Templates/博文.md",
-    "docs/post/YearIndex.md",
-    "posts/2025 1.md",
-    "posts/2024.md",
     "docs/aboutme.md",
-    "posts/2025.md",
     "posts",
     "docs/public/icon/xiaohongshu.svg",
     "docs/public/popover.png",
