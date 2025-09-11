@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/YearIndex.md",
+                "file": "docs/post/CategoryIndex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YearIndex"
+              "title": "CategoryIndex"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/YearIndex.md",
+                "file": "docs/post/CategoryIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "YearIndex 的出链列表"
+              "title": "CategoryIndex 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/YearIndex.md",
+                "file": "docs/post/CategoryIndex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "YearIndex 的大纲"
+              "title": "CategoryIndex 的大纲"
             }
           },
           {
@@ -183,16 +183,18 @@
   },
   "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
+    "docs/post/2025/蓝桥3898.泡澡.md",
+    "docs/post/2025/nihao.md",
+    "docs/post/2025/蓝桥3904.DNA序列修正.md",
+    "Templates/博文.md",
+    "docs/index.md",
+    "docs/post/YearIndex.md",
     "docs/post/CategoryIndex.md",
     "docs/aboutme.md",
-    "docs/post/YearIndex.md",
-    "Templates/博文.md",
     "docs/post/2025/蓝桥3260.最大数组和.md",
     "docs/post/2025/蓝桥545.谈判.md",
     "docs/post/2025/蓝桥532.纪念品分组.md",
     "output.txt",
-    "docs/post/2025/蓝桥3898.泡澡.md",
-    "docs/post/2025/蓝桥3904.DNA序列修正.md",
     "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
     "docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
     "docs/public/assets/Unity+Pico 3D项目转VR记录/image.png",
@@ -222,13 +224,10 @@
     "docs/public/popover.png",
     "docs/public/logo.png",
     "docs/post/2025/Untitled 1.md",
-    "docs/post/2025/nihao.md",
     "docs/post/2025/嘻嘻嘻.md",
     "docs/post/2025/2025-09-10_周三.md",
     "docs/post/2025/hahaha.md",
-    "docs/posts/2025/2025-09-10_周三.md",
     "docs/posts/2025",
-    "docs/posts",
-    "node_modules/Untitled.md"
+    "docs/posts"
   ]
 }
