@@ -1,0 +1,26 @@
+{
+  "attachmentFolderPath": ".public/assets/${filename}",
+  "attachmentRenameMode": "All",
+  "collectAttachmentUsedByMultipleNotesMode": "Skip",
+  "customTokensStr": "",
+  "duplicateNameSeparator": " ",
+  "emptyAttachmentFolderBehavior": "DeleteWithEmptyParents",
+  "excludePaths": [],
+  "excludePathsFromAttachmentCollecting": [],
+  "generatedAttachmentFileName": "img-${date}",
+  "includePaths": [],
+  "jpegQuality": 0.8,
+  "markdownUrlFormat": "",
+  "shouldConvertPastedImagesToJpeg": false,
+  "shouldDeleteOrphanAttachments": false,
+  "shouldRenameAttachmentFiles": true,
+  "shouldRenameAttachmentFolder": true,
+  "shouldRenameCollectedAttachments": false,
+  "specialCharacters": "#^[]|*\\<>:?",
+  "specialCharactersReplacement": "-",
+  "timeoutInSeconds": 5,
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ],
+  "warningVersion": ""
+}
