@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/aboutme.md",
+                "file": "docs/post/YearIndex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aboutme"
+              "title": "YearIndex"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/aboutme.md",
+                "file": "docs/post/YearIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "aboutme 的出链列表"
+              "title": "YearIndex 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/aboutme.md",
+                "file": "docs/post/YearIndex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "aboutme 的大纲"
+              "title": "YearIndex 的大纲"
             }
           },
           {
@@ -184,6 +184,7 @@
   "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
     "docs/post/CategoryIndex.md",
+    "docs/aboutme.md",
     "docs/post/YearIndex.md",
     "Templates/博文.md",
     "docs/post/2025/蓝桥3260.最大数组和.md",
@@ -216,7 +217,6 @@
     "posts/2025 1.md",
     "posts/2025.md",
     "posts/2024.md",
-    "docs/aboutme.md",
     "posts",
     "docs/public/icon/xiaohongshu.svg",
     "docs/public/popover.png",
