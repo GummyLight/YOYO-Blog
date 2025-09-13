@@ -11,14 +11,10 @@
             "id": "0e7d0dcef6fc73e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/文档属性速查表.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "文档属性速查表"
+              "title": "新标签页"
             }
           }
         ]
@@ -181,8 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62d19d8947b22f67",
+  "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
+    "docs/文档属性速查表.md",
+    "docs/post/文档属性速查表.md",
     "docs/public/IconXHS.png",
     "docs/public/小红书.png",
     "docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
@@ -191,7 +189,6 @@
     "docs/post/2025/蓝桥3260.最大数组和.md",
     "docs/post/2025/蓝桥545.谈判.md",
     "docs/post/2025/蓝桥532.纪念品分组.md",
-    "docs/文档属性速查表.md",
     "Templates/博文.md",
     "docs/post/CategoryIndex.md",
     "docs/post/2025/蓝桥3898.泡澡.md",
@@ -224,7 +221,6 @@
     "posts/2024.md",
     "posts",
     "docs/public/icon/xiaohongshu.svg",
-    "docs/public/popover.png",
     "docs/post/2025/Untitled 1.md",
     "docs/post/2025/嘻嘻嘻.md",
     "docs/post/2025/2025-09-10_周三.md",
