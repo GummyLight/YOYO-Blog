@@ -181,8 +181,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e7d0dcef6fc73e1",
+  "active": "62d19d8947b22f67",
   "lastOpenFiles": [
+    "docs/public/IconXHS.png",
+    "docs/public/小红书.png",
     "docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
     "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
     "docs/post/2025/蓝桥3904.DNA序列修正.md",
@@ -223,7 +225,6 @@
     "posts",
     "docs/public/icon/xiaohongshu.svg",
     "docs/public/popover.png",
-    "docs/public/logo.png",
     "docs/post/2025/Untitled 1.md",
     "docs/post/2025/嘻嘻嘻.md",
     "docs/post/2025/2025-09-10_周三.md",
