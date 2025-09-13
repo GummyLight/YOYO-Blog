@@ -12,7 +12,7 @@ import markdownItMark from 'markdown-it-mark';
 // 如果使用 GitHub/Gitee Pages 等公共平台部署
 // 通常需要修改 base 路径，通常为“/仓库名/”
 // 如果项目名已经为 name.github.io 域名，则不需要修改！
-const base = '/YOYO-Blog/'
+const base = 'https://gummylight.github.io/YOYO-Blog/'
 //customElements 用于配置markdown-it-katex插件支持的数学公式
 const customElements = [
 	'mjx-container',
@@ -156,7 +156,7 @@ const blogTheme = getThemeConfig({
       {
         nickname: '鸡叫带师',
         des: '明月别枝惊鹊，清风半夜鸣蝉',
-        avatar: 'https://gummylight.github.io/YOYO-Blog/瑞.jpg',
+        avatar: 'https://gummylight.github.io/YOYO-Blog/瑞璟.jpg',
         url: 'https://space.bilibili.com/438272047'
       },
     ],
