@@ -35,8 +35,7 @@
               "title": "Publish"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e786c8198c6b51c",
+  "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
+    "docs/public/assets/Unity+Pico 3D项目转VR记录/image-1.png",
     "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
     "Templates/Publish.md",
+    "scripts/publish.js",
+    "scripts/publish.txt",
+    "scripts/新建 文本文档.txt",
+    "scripts",
+    "新建文件夹",
     "pub.sh",
     "pub.txt",
     "新建 文本文档.txt",
@@ -210,16 +215,11 @@
     "deploy/node_modules/vitepress/template/markdown-examples.md",
     "deploy/node_modules/vitepress/template/index.md",
     "deploy/node_modules/vitepress/template/api-examples.md",
-    "deploy/node_modules/vitepress/template",
     "deploy/node_modules/vitepress/README.md",
-    "deploy/node_modules/vitepress",
     "deploy/node_modules/typescript/SECURITY.md",
     "deploy/node_modules/typescript/README.md",
-    "deploy/node_modules/typescript",
     "deploy/node_modules/sass/README.md",
-    "deploy/node_modules/sass",
     "deploy/node_modules/pagefind/README.md",
-    "deploy/node_modules/pagefind",
     "deploy/node_modules/markdown-it-mathjax3/README.md",
     "deploy/node_modules/markdown-it-mark/README.md",
     "deploy/node_modules/markdown-it-katex/README.md",
@@ -233,8 +233,6 @@
     "deploy/docs/post/2025/蓝桥3260.最大数组和.md",
     "deploy/docs/post/2025/蓝桥3898.泡澡.md",
     "deploy/docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
-    "deploy/docs/post/2025/Unity+Pico 3D项目转VR记录.md",
-    "docs/public/assets/Unity+Pico 3D项目转VR记录/image-1.png",
     "docs/public/assets/Unity+Pico 3D项目转VR记录/image.png",
     "docs/public/IconXHS.png",
     "docs/public/小红书.png",
