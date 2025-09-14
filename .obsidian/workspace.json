@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
+                "file": "docs/post/2025/DataWhale 9月 大模型实训 T1：大模型介绍与环境配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity+Pico 3D项目转VR记录"
+              "title": "DataWhale 9月 大模型实训 T1：大模型介绍与环境配置"
             }
           }
         ]
@@ -183,8 +183,12 @@
   },
   "active": "8e786c8198c6b51c",
   "lastOpenFiles": [
-    "docs/public/assets/Unity+Pico 3D项目转VR记录/image.png",
+    "docs/public/assets/DataWhale 9月 大模型实训 T1：大模型介绍与环境配置/image.png",
+    "docs/public/assets/DataWhale 9月 大模型实训 T1：大模型介绍与环境配置",
     "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
+    "docs/post/文档属性速查表.md",
+    "docs/post/2025/DataWhale 9月 大模型实训 T1：大模型介绍与环境配置.md",
+    "docs/public/assets/Unity+Pico 3D项目转VR记录/image.png",
     "docs/public/IconXHS.png",
     "docs/public/popover.png",
     "docs/post/2025/蓝桥545.谈判.md",
@@ -207,7 +211,6 @@
     "pub.txt",
     "新建 文本文档.txt",
     "deploy/Templates/博文.md",
-    "deploy/Templates",
     "deploy/node_modules/vue/README.md",
     "deploy/node_modules/vitepress/template/markdown-examples.md",
     "deploy/node_modules/vitepress/template/index.md",
@@ -226,8 +229,6 @@
     "deploy/node_modules/element-plus/README.md",
     "deploy/docs/post/2025/蓝桥545.谈判.md",
     "deploy/docs/post/2025/蓝桥3904.DNA序列修正.md",
-    "deploy/docs/post/2025/蓝桥532.纪念品分组.md",
-    "deploy/docs/post/2025/蓝桥3260.最大数组和.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]

@@ -7,10 +7,10 @@
   "excludePathsFromAttachmentCollecting": [],
   "includePaths": [],
   "shouldChangeNoteBacklinksDisplayText": true,
-  "shouldCollectAttachmentsAutomatically": false,
-  "shouldDeleteAttachmentsWithNote": false,
+  "shouldCollectAttachmentsAutomatically": true,
+  "shouldDeleteAttachmentsWithNote": true,
   "shouldDeleteExistingFilesWhenMovingNote": false,
-  "shouldMoveAttachmentsWithNote": false,
+  "shouldMoveAttachmentsWithNote": true,
   "shouldShowBackupWarning": false,
   "shouldUpdateLinks": true,
   "treatAsAttachmentExtensions": [
