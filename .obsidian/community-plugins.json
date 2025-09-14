@@ -2,5 +2,6 @@
   "obsidian-git",
   "templater-obsidian",
   "obsidian-linter",
-  "image-converter"
+  "image-converter",
+  "obsidian-custom-attachment-location"
 ]
