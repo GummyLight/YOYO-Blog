@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/2025/2025-9-13 博客更新心得.md",
+                "file": "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-9-13 博客更新心得"
+              "title": "Unity+Pico 3D项目转VR记录"
             }
           }
         ]
@@ -183,15 +183,20 @@
   },
   "active": "0e7d0dcef6fc73e1",
   "lastOpenFiles": [
+    "deploy",
+    "新建文件夹",
+    "docs/public/assets/Unity+Pico 3D项目转VR记录/image.png",
+    "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
+    "docs/post/YearIndex.md",
+    "docs/post/CategoryIndex.md",
+    "docs/post/2025/2025-9-13 博客更新心得.md",
     "docs/post/2025/蓝桥532.纪念品分组.md",
     "docs/post/2025/蓝桥545.谈判.md",
     "docs/post/2025/蓝桥3260.最大数组和.md",
     "docs/post/2025/蓝桥3898.泡澡.md",
     "docs/post/2025/蓝桥3904.DNA序列修正.md",
-    "docs/post/2025/Unity+Pico 3D项目转VR记录.md",
     "docs/post/2025/vue创建项目错误提示EPERM xxx 的解决办法.md",
     "docs/post/文档属性速查表.md",
-    "docs/post/2025/2025-9-13 博客更新心得.md",
     "docs/post/2025/Untitled.md",
     "node_modules/@sugarat/architect.txt",
     "node_modules/@sugarat/output.txt",
@@ -199,13 +204,10 @@
     "docs/public/IconXHS.png",
     "docs/public/小红书.png",
     "Templates/博文.md",
-    "docs/post/CategoryIndex.md",
     "docs/post/2025/nihao.md",
     "docs/index.md",
-    "docs/post/YearIndex.md",
     "docs/aboutme.md",
     "output.txt",
-    "docs/public/assets/Unity+Pico 3D项目转VR记录/image.png",
     "docs/public/assets/Unity+Pico 3D项目转VR记录",
     "docs/public/assets/Unity+Pico 3D项目转VR记录/image-4.png",
     "docs/public/assets/Unity+Pico 3D项目转VR记录/image-3.png",
@@ -227,7 +229,6 @@
     "posts/2025 1.md",
     "posts/2025.md",
     "posts/2024.md",
-    "posts",
     "docs/public/icon/xiaohongshu.svg",
     "docs/post/2025/Untitled 1.md"
   ]
